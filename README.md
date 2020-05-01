@@ -20,11 +20,13 @@ it's like script language. easy syntax + any python external modules.
 - of course, full compatability with other python syntax.
 
 
-(syntax example)
+(basic syntax example)
+```python
 if image('abc.png').exist:
   click('xyz.png', n = 3)
-
+```
 (actual example)
+```python
 turn = 1
 if turn == -10:
   proc.kill()
@@ -41,3 +43,4 @@ if turn == 5:
   try_click('do2-1.png')
 if turn == 6:
   goto(-10)
+```
