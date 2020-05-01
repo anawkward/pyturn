@@ -1,20 +1,19 @@
-under improvement. predicted completion: 20.02.01. ~ 20.05.14.
+under testing. you can use for trial
 
 # < pyturn project >
 an automation tool for image click task. use baseline functions from pyautogui
 
-# pyturn.py
+# pyturn.py (recording, scripting)
 1. you record pictures where you click with this
 2. this makes script from images
 
-# pyturn_factory.py
-- has functions and classes to import
-
+# pyturn_factory.py (source file)
+- it has functions and classes to import
 
 # demonstration picture for macro
 
 # description
-it's like script language. easy pyturn syntax + any python external modules.
+it's like script language. easy syntax + any python external modules.
 - supports multimonitors. you can specify which monitor you want to work with.
 - has simple pythonic syntax.
 - easy for maintenance. most detailed action can be done changing parameters
