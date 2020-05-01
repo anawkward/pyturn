@@ -26,8 +26,11 @@ if image('abc.png').exist:
 
 (actual example)
 turn = 1
+
 if turn == -10:
+
   proc.kill()
+  
 if turn == 1:
   try_click('start.png')
 if turn == 2:
