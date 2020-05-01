@@ -1,7 +1,7 @@
 under testing. you can use for trial
 
 # < pyturn project >
-an automation tool for image click task. use baseline functions from pyautogui
+an automation tool for image click task. it uses baseline functions from pyautogui
 
 # pyturn.py (recording, scripting)
 1. you record pictures where you click with this
